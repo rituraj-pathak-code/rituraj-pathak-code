@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi 👋, I am Rituraj Pathak an enthusiastic and ambitious front-end developer.<br>I am proficient in JavaScript, React and Responsive Design.<br>I love to network, join new communities and add value ✨
-
+Hi 👋, I am Rituraj Pathak. I am a dedicated software engineer with a passion for building reliable, efficient, and scalable solutions. With a strong foundation in both front-end and back-end development, I’m proficient in modern web technologies and committed to delivering high-quality code that enhances user experience and meets business goals. I enjoy breaking down complex problems, finding creative solutions, and continuously refining my skills to stay at the forefront of the tech landscape.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rituraj-pathak-0983191a0) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rituraj34781867) 
